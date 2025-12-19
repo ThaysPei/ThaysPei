@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thays Peixoto
 ======================================================================================================================================
 
-Web Front-end Developer e mais uma entusiasta de conteúdo tech e científico no medium 
+Web Front-end Developer e uma entusiasta de conteúdo tech e científico no medium 
 -----------------------
 
 * 🌍  I'm based in Brasil
