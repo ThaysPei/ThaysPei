@@ -50,7 +50,7 @@ Projects focused on:
 
 - 🌍 Based in Brazil  
 - 📩 Email: thabysilva12@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/seu-link-aqui  
+- 💼 LinkedIn: https://www.linkedin.com/in/thays-peixoto-da-silva/ 
 - 🧑‍💻 GitHub: https://github.com/ThaysPei  
 
 ---
