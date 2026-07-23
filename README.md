@@ -40,8 +40,13 @@ API integration and state management
 WhatsApp automation workflows for business (real estate)
 AI-powered chat agents and follow-up systems
 Let's connect
+
+
 🌍 Based in Brazil
+
 📩 Email: thabysilva12@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/thays-peixoto-da-silva/
+
 🧑‍💻 GitHub: https://github.com/ThaysPei
 
